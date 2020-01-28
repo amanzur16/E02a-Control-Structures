@@ -4,7 +4,7 @@ import sys, random
 assert sys.version_info >= (3,7), "This script requires at least Python 3.7"
 
 
-print('Greetings!')
+print('Greetings!') # Program will say "Greatings!"
 colors = ['red','orange','yellow','green','blue','violet','purple']
 play_again = ''
 best_count = sys.maxsize            # the biggest number
